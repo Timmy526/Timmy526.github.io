@@ -1,0 +1,34 @@
+I spent a year and a half through programs with America On Tech, learning my 
+first coding languages of web development coding. Because of this program, I 
+have spent countless hours coding to practice and learn more about coding.  
+Here are some projects that I have coded in web development.
+
+During my time learning web development coding, I also had the opportunity to 
+learn React as part of the America On Tech, programming class, to help prepare 
+me for my internship they gave me with the James Jay Dudley Luce Foundation. 
+
+In my free time, I like to spend time learning new things that interest me,
+one of them being different coding languages. These are all the projects that
+I have coded in Python.
+
+For one of my Computer Science classes, we took the time to explore our choice
+of coding languages. My group chose to explore PHP. This is the project we created 
+as a group in our time learning PHP. I hope to take this knowledge and expand it on 
+my future web development projects.
+
+As a Computer Science major, we have learned to program in the language
+Java, here are some projects that I have done with it, both in school and 
+in my free time.
+
+In one of the many Computer Science classes I have taken, students formed
+groups of 5 or less, in order to create projects to practice the idea of 
+software development. My group decided to use Unity, and C# to create a 
+Rougelite Game. 
+
+As a Computer Science major, we have learned to program in the language
+C++, here are some projects that I have done with it, both in school and 
+in my free time.
+
+As a Computer Science major, we have learned to program in the language
+C, here are some projects that I have done with it, both in school and 
+in my free time
