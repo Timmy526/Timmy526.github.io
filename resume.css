@@ -1,5 +1,3 @@
-/* Code For NavBar */
-
 /* Navbar */
 *{
   box-sizing: border-box;
@@ -89,7 +87,7 @@ body{
   }
 }
 
-Resume Timeline
+/* Resume Timeline */
 
 * {
    -webkit-box-sizing: border-box;
