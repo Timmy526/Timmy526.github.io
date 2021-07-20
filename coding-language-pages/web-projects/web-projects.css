@@ -12,7 +12,7 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #555;
+  background-color: #2CA6A4;
   color: white;
 }
 
@@ -39,7 +39,7 @@ body{
 }
 
 .navbar-links li:hover{
-  background-color: #555;
+  background-color: #2CA6A4;
 }
 
 .toggle-button{
@@ -60,7 +60,7 @@ body{
   border-radius: 10px;
 }
 
-@media (max-width: 400px){
+@media (max-width: 900px){
   .toggle-button{
     display: flex;
   }
@@ -102,8 +102,8 @@ body{
 .wrapper .header{
 	width: 100%;
 	height: 50px;
-	background: #eb4870;
-	color: #fff;
+	/* background: #eb4870; */
+	color: black;
 	text-align: center;
 	display: flex;
 	justify-content: center;
@@ -114,7 +114,7 @@ body{
 	font-weight: 900;
 }
 
-.wrapper .description{
+/* .wrapper .description{
   padding: 10px;
 	width: 100%;
 	height: auto;
@@ -128,7 +128,7 @@ body{
 
 .wrapper .description p{
   width: 50%;
-}
+} */
 
 .cards-wrap{
 	padding: 20px;
@@ -144,7 +144,7 @@ body{
 }
 
 .cards-wrap .card-inner{
-	background: #fff;
+	background: #b9e2eb;
 	border-radius: 5px;
 	padding: 35px 20px;
 	min-width: 225px;
@@ -161,7 +161,7 @@ body{
 }
 
 .cards-wrap .card-item .project-name{
-	color: #e36686;
+	color: black;
 	font-weight: 900;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -173,14 +173,14 @@ body{
 }
 
 .cards-wrap .card-item .project-language{
-	color: #0aa0c2;
+	color: black;
 	font-size: 12px;
 	font-weight: 500;
 	margin: 5px 0 10px;
 }
 
 .cards-wrap .card-item .project-language2{
-	color: #0aa0c2;
+	color: black;
 	font-size: 12px;
 	font-weight: 500;
 	margin: 5px 0 10px;
@@ -189,7 +189,7 @@ body{
 .cards-wrap .card-item .project-description{
 	font-size: 14px;
 	line-height: 24px;
-	color: #7b8ca0;
+	color: #4c4d4d;
 }
 
 .cards-wrap .card-item .icons{
@@ -204,7 +204,7 @@ body{
 }
 
 .cards-wrap .card-item .icons a:hover{
-  color: #05fff7;
+  color: white;
   text-decoration: none;
   cursor: pointer;
 }
