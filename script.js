@@ -7,21 +7,21 @@ toggleButton.addEventListener('click', () => {
 })
 
 //Quote of the Day Script
-let request = new XMLHttpRequest();
-let url = "https://api.adviceslip.com/advice";
+// let request = new XMLHttpRequest();
+// let url = "https://api.adviceslip.com/advice";
 
-request.open("GET", url, true);
+// request.open("GET", url, true);
 
-request.onload = function(){
-    //Begin accessing JSON data here. Data stored in request.response
-    let data = JSON.parse(this.response);
-    let quote = document.getElementById('quote');
+// request.onload = function(){
+//     //Begin accessing JSON data here. Data stored in request.response
+//     let data = JSON.parse(this.response);
+//     let quote = document.getElementById('quote');
     
-    if (request.status >= 200 && request.status <400){
-        quote.innerHTML = data["slip"].advice;
-    }
+//     if (request.status >= 200 && request.status <400){
+//         quote.innerHTML = data["slip"].advice;
+//     }
     
-};
-request.send();
+// };
+// request.send();
 
 //Programming Card Project Number Changer
